@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // --- CONFIGURATION ---
-    // !!! IMPORTANT: Paste your new API key from Twelve Data here
+    // !!! IMPORTANT: Paste your new API key from Twelve Data 
     const apiKey = 'f304d0efc168451fb46ed3704ddd58d5';
 
     // List of stocks to display on the homepage
@@ -149,6 +149,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
  
  
+
 
 
 
